@@ -1,7 +1,16 @@
 # Simulation of Federated Learning in Hierarchial Networks
 
+- **Project Type**: Open-Ended Lab Project
+- **Contributors**: [Bharath Kallakuri](https://github.com/BharathKallakuri), [K Srirama Srikar](https://github.com/k-srirama-srikar)
+- **Mentors**: Dr. Anoop Thomas, Dr. Birenjith Sashidharan
+- **Semester**: Fall 2025
+
+> We were awarded an S grade (10/10) for the work done in this project!
+
+## About the Github Repository
+
 * The repository consists of codes for Simulation of Federated Learning in Hierarchical setup.
-* We have implemented Repetition coding and Aligned MDS Coding technique for communication.
+* We have implemented Repetition coding and Aligned MDS (Maximum Distance Sperable) Coding technique for communication.
 * We have used FEMNIST Dataset and Logistic Regression and CNN for training and testing.
 * Heterogeneous Setup for AMC, which can have different clients with different erasure tolerance.
 <!-- ### Code Overview:
@@ -75,3 +84,5 @@
    * **Master** reconstructs the global model from helper updates.
    * Evaluate the global model on the test dataset.
 4. Track communication payloads and accuracy per round.
+
+
